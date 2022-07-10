@@ -1,0 +1,12 @@
+[
+  { "Terminal": "SV0001", "Nomor_Kartu": 55619293945, "Amount": 100000 },
+  { "Terminal": "SV0001", "Nomor_Kartu": 55678475829, "Amount": 150000 },
+  { "Terminal": "SV0001", "Nomor_Kartu": 55678475829, "Amount": 500000 },
+  { "Terminal": "SV0001", "Nomor_Kartu": 55678475829, "Amount": 100000 },
+  { "Terminal": "SV0001", "Nomor_Kartu": 55678475829, "Amount": 125000 },
+  { "Terminal": "SV0003", "Nomor_Kartu": 55678475829, "Amount": 600000 },
+  { "Terminal": "SV0003", "Nomor_Kartu": 55678475829, "Amount": 300000 },
+  { "Terminal": "SV0005", "Nomor_Kartu": 55678475829, "Amount": 350000 },
+  { "Terminal": "SV0005", "Nomor_Kartu": 55678475829, "Amount": 100000 },
+  { "Terminal": "SV0005", "Nomor_Kartu": 55678475829, "Amount": 100000 }
+]
