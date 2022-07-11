@@ -6,7 +6,7 @@ Relational databases (SQL)
 	○ A unique key identifies each row
 
 
-Non-Realational (noSQL / not just SQL)
+Non-Relational (noSQL / not just SQL)
 ⚫ Organize data is anything but a traditional table
 	○ Key-value stores
 	○ Documents (JSON , XML ,etc)
