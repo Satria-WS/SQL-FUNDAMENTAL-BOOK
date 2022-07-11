@@ -39,3 +39,4 @@ Summary
 ● Two types of Databases, Relational & Non-Relational
 ● Relational databses use SQL and store data in tables with rows and columns
 ● Non-Relational data store data using other data structures
+● foreign key , is stores the primary key of a row in another database table
