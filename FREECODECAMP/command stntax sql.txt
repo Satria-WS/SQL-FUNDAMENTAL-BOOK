@@ -1,0 +1,18 @@
+add environtment variable: 
+C:\Program Files\MySQL\MySQL Server 8.0\bin
+
+
+//check version:
+$ mysql --version
+
+//login mysql on cmd
+$ mysql -u root -p
+
+
+//check or show database
+$ show databases;
+
+
+
+//create database
+$ create database sebat;
