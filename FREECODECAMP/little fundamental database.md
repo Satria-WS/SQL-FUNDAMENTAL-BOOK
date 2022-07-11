@@ -2,8 +2,8 @@ Two Types of Databases
 
 Relational databases (SQL)
 ⚫ Organize data into one or more tables
-	○ Each table has columns and rows
-	○ A unique key identifies each row
+	○ Each table has columns(vertical) and rows(horizontal)
+	○ A unique key or primary key identifies each row
 
 
 Non-Relational (noSQL / not just SQL)
