@@ -1,6 +1,6 @@
 Database Management Systems (DBMS)
 
-Acronym C.R.U.D (Create Read Update Delete)
+Acronym C.R.U.D (Create Read/Retrieve Update Delete)
 
 
 
