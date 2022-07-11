@@ -1,5 +1,8 @@
 Database Management Systems (DBMS)
 
+Acronym C.R.U.D (Create Read Update Delete)
+
+
 
 add environtment variable: 
 C:\Program Files\MySQL\MySQL Server 8.0\bin
